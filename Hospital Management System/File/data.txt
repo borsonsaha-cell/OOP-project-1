@@ -1,0 +1,12 @@
+******** AIUB HOSPITAL RECORDS ********
+Patient Name: yyeyeey | ID: 22 | Age: 20
+---------------------------------------
+App ID: 333 | Date: 11
+Doctor: happy (medichini)
+
+App ID: 44 | Date: 11222
+Doctor: happy (medichini)
+
+App ID: 44 | Date: 11222
+Doctor: happy (medichini34444)
+

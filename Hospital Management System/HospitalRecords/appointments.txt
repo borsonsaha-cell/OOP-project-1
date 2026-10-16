@@ -1,0 +1,9 @@
+******** AIUB HOSPITAL RECORDS ********
+Patient Name: ahahah | ID: 2222 | Age: 333
+---------------------------------------
+App ID: 3333 | Date: 22-22-11
+Doctor: happyy (medichine)
+
+App ID: 33 | Date: 22-22-11
+Doctor: happyywwww (medichine and gaini)
+
